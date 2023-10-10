@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/media/sz/C4163C42163C37AE/learning/third_party/rxcpp-tutorials/build/_deps/rxcpp-subbuild/CMakeFiles/rxcpp-populate"
+		},
+		{
+			"file" : "/media/sz/C4163C42163C37AE/learning/third_party/rxcpp-tutorials/build/_deps/rxcpp-subbuild/CMakeFiles/rxcpp-populate.rule"
+		},
+		{
+			"file" : "/media/sz/C4163C42163C37AE/learning/third_party/rxcpp-tutorials/build/_deps/rxcpp-subbuild/CMakeFiles/rxcpp-populate-complete.rule"
+		},
+		{
+			"file" : "/media/sz/C4163C42163C37AE/learning/third_party/rxcpp-tutorials/build/_deps/rxcpp-subbuild/rxcpp-populate-prefix/src/rxcpp-populate-stamp/rxcpp-populate-build.rule"
+		},
+		{
+			"file" : "/media/sz/C4163C42163C37AE/learning/third_party/rxcpp-tutorials/build/_deps/rxcpp-subbuild/rxcpp-populate-prefix/src/rxcpp-populate-stamp/rxcpp-populate-configure.rule"
+		},
+		{
+			"file" : "/media/sz/C4163C42163C37AE/learning/third_party/rxcpp-tutorials/build/_deps/rxcpp-subbuild/rxcpp-populate-prefix/src/rxcpp-populate-stamp/rxcpp-populate-download.rule"
+		},
+		{
+			"file" : "/media/sz/C4163C42163C37AE/learning/third_party/rxcpp-tutorials/build/_deps/rxcpp-subbuild/rxcpp-populate-prefix/src/rxcpp-populate-stamp/rxcpp-populate-install.rule"
+		},
+		{
+			"file" : "/media/sz/C4163C42163C37AE/learning/third_party/rxcpp-tutorials/build/_deps/rxcpp-subbuild/rxcpp-populate-prefix/src/rxcpp-populate-stamp/rxcpp-populate-mkdir.rule"
+		},
+		{
+			"file" : "/media/sz/C4163C42163C37AE/learning/third_party/rxcpp-tutorials/build/_deps/rxcpp-subbuild/rxcpp-populate-prefix/src/rxcpp-populate-stamp/rxcpp-populate-patch.rule"
+		},
+		{
+			"file" : "/media/sz/C4163C42163C37AE/learning/third_party/rxcpp-tutorials/build/_deps/rxcpp-subbuild/rxcpp-populate-prefix/src/rxcpp-populate-stamp/rxcpp-populate-test.rule"
+		},
+		{
+			"file" : "/media/sz/C4163C42163C37AE/learning/third_party/rxcpp-tutorials/build/_deps/rxcpp-subbuild/rxcpp-populate-prefix/src/rxcpp-populate-stamp/rxcpp-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"rxcpp-populate"
+		],
+		"name" : "rxcpp-populate"
+	}
+}
