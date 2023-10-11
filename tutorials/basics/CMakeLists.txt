@@ -1,1 +1,5 @@
 add_subdirectory(01_minimal_event_driven_workflow)
+add_subdirectory(02_create_custom_event_stream)
+add_subdirectory(03_use_operators_to_filter_or_transformate_event_streams)
+add_subdirectory(04_subscriber_unsubscription_action)
+#add_subdirectory()
