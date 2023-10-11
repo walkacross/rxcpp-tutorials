@@ -54,7 +54,7 @@ int main(){
     std::cout << "-----------------bad case--------------------------" << std::endl;
     bad_case();
 
-    std::cout << "-----------------good case--------------------------" << std:;endl;
+    std::cout << "-----------------good case--------------------------" << std::endl;
     good_case();
     return 0;
 }

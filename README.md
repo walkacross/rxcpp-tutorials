@@ -17,5 +17,6 @@ INCLUDE_DIRECTORIES(${RXCPP_HOME} $ENV{RXCPP_HOME})
 
 
 # appendix
+1. https://github.com/ReactiveX/RxCpp/tree/main/Rx/v2/examples/doxygen
 
-https://github.com/PacktPublishing/CPP-Reactive-Programming
+2. https://github.com/PacktPublishing/CPP-Reactive-Programming
