@@ -1,1 +1,3 @@
-add_subdirectory(01_exec_in_different_thread)
+add_subdirectory(01_hot_and_cold_observable)
+add_subdirectory(02_sustainable_event_stream_with_publish)
+add_subdirectory(03_exec_in_different_thread)
